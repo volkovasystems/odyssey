@@ -1,0 +1,4 @@
+
+editorLinker = function editorLinker( ){
+    
+};

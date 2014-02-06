@@ -1,0 +1,5 @@
+
+
+documentLinker = function documentLinker( ){
+    
+};
